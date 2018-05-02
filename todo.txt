@@ -1,0 +1,5 @@
+To do list:
+
+x Git Basics
+o Learn Git
+o Homework at TU-Berlin

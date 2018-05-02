@@ -1,5 +1,5 @@
 This reporsitory was created folowing the tutorials on gitreal.codeschool.com
 
-here us my readme
+here is my readme
 
-and now I can sleep
+the cake is a lie
